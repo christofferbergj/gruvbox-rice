@@ -5,7 +5,7 @@ Contains gruvbox colors, wallpapers, etc.
 
 ## Gruvbox compatible wallpapers
 <details>
-  <summary>With a Gruvbox filter/overlay applied</summary>
+  <summary>With a Gruvbox filter/overlay applied (2400x1600)</summary>
   
   ![Image 1 without filter](https://github.com/christofferbergj/gruvbox-rice/blob/main/wallpapers/1-filter.jpg?raw=true)
   ![Image 2 without filter](https://github.com/christofferbergj/gruvbox-rice/blob/main/wallpapers/2-filter.jpg?raw=true)
@@ -16,7 +16,7 @@ Contains gruvbox colors, wallpapers, etc.
 </details>
 
 <details>
-  <summary>Without a Gruvbox filter/overlay applied</summary>
+  <summary>Without a Gruvbox filter/overlay applied (Raw sizes)</summary>
   
   ![Image 1 with filter](https://github.com/christofferbergj/gruvbox-rice/blob/main/wallpapers/1.jpg?raw=true)
   ![Image 2 with filter](https://github.com/christofferbergj/gruvbox-rice/blob/main/wallpapers/2.jpg?raw=true)
