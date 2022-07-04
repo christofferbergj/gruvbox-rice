@@ -3,7 +3,7 @@
 Contains gruvbox colors, wallpapers, etc. 
 
 
-## Wallpapers
+## Gruvbox compatible wallpapers
 <details>
   <summary>With a Gruvbox filter/overlay applied</summary>
   
