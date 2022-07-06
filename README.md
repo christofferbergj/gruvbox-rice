@@ -4,7 +4,10 @@ Contains gruvbox colors, wallpapers, etc.
 
 ## Demo images
 
+#### Terminal
 ![Terminal](https://github.com/christofferbergj/gruvbox-rice/blob/main/demo/terminal.png?raw=true)
+
+#### Webstorm
 ![Webstorm](https://github.com/christofferbergj/gruvbox-rice/blob/main/demo/webstorm.png?raw=true)
 
 
