@@ -53,6 +53,10 @@ https://chrome.google.com/webstore/detail/gruvbox-theme/ihennfdbghdiflogeancnalf
 
 https://plugins.jetbrains.com/plugin/12310-gruvbox-theme
 
+## Vscode theme
+
+https://github.com/jdinhify/vscode-theme-gruvbox
+
 
 
 
