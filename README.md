@@ -2,8 +2,14 @@
 
 Contains gruvbox colors, wallpapers, etc. 
 
+## Demo images
+
+![Terminal](https://github.com/christofferbergj/gruvbox-rice/blob/main/demo/terminal.png?raw=true)
+![Webstorm](https://github.com/christofferbergj/gruvbox-rice/blob/main/demo/webstorm.png?raw=true)
+
 
 ## Gruvbox compatible wallpapers
+
 <details>
   <summary>With a Gruvbox filter/overlay applied (Raw sizes)</summary>
   
@@ -27,6 +33,7 @@ Contains gruvbox colors, wallpapers, etc.
 </details>
 
 ## iTerm2 colorscheme
+
 [Download](gruvbox-dark.itermcolors)
 
 ## Slack colorscheme
@@ -38,6 +45,10 @@ Copy and paste this into a Slack DM to yourself, and then click the "Switch side
 
 https://chrome.google.com/webstore/detail/gruvbox-theme/ihennfdbghdiflogeancnalflhgmanop?hl=en-GB
 
+
+## Webstorm theme
+
+https://plugins.jetbrains.com/plugin/12310-gruvbox-theme
 
 
 
