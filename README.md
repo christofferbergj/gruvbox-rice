@@ -26,6 +26,18 @@ Contains gruvbox colors, wallpapers, etc.
   ![Image 6 with filter](https://github.com/christofferbergj/gruvbox-rice/blob/main/wallpapers/6.jpg?raw=true)
 </details>
 
+## iTerm2 colorscheme
+[Download](gruvbox-dark.itermcolors)
+
+## Slack colorscheme
+
+Copy and paste this into a Slack DM to yourself, and then click the "Switch sidebar theme" that appears, or go into **Preferences -> Themes -> Colors** and paste.  
+`#282828,#3c3836,#ebdbb2,#1d2021,#3e313c,#ebdbb2,#689d6a,#fb4934`
+
+## Chrome theme
+
+https://chrome.google.com/webstore/detail/gruvbox-theme/ihennfdbghdiflogeancnalflhgmanop?hl=en-GB
+
 
 
 
