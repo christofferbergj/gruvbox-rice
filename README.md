@@ -1,6 +1,6 @@
 # Gruvbox resources for ricing a system (mac)
 
-Contains gruvbox colors, wallpapers, etc. 
+Contains gruvbox (dark) colors, wallpapers, etc. 
 
 ## Demo images
 
@@ -9,6 +9,10 @@ Contains gruvbox colors, wallpapers, etc.
 
 #### Webstorm
 ![Webstorm](https://github.com/christofferbergj/gruvbox-rice/blob/main/demo/webstorm.png?raw=true)
+
+## Official color palette
+
+https://github.com/morhetz/gruvbox
 
 
 ## Gruvbox compatible wallpapers
