@@ -4,7 +4,7 @@ Contains Gruvbox (dark) colors, wallpapers, etc.
 
 ## Demo images
 
-#### Terminal – WezTerm
+### Terminal – WezTerm
 
 ![WezTerm clean](https://github.com/christofferbergj/gruvbox-rice/assets/10507071/83a908ab-e244-4133-a23d-080014f91743)
 ![WezTerm neofetch](https://github.com/christofferbergj/gruvbox-rice/assets/10507071/7ce35d98-71ae-4e18-a208-c8c5b7d94580)
@@ -12,7 +12,7 @@ Contains Gruvbox (dark) colors, wallpapers, etc.
 ![WezTerm Gitui](https://github.com/christofferbergj/gruvbox-rice/assets/10507071/be0bb224-37f3-4d3f-837b-353fb5557c7d)
 
 
-#### Webstorm
+### Webstorm
 
 ![WebStorm Typescript file](https://github.com/christofferbergj/gruvbox-rice/assets/10507071/0034adb5-431e-433a-b578-52c38035bfdf)
 ![WebStorm Typescript file with file explorer open](https://github.com/christofferbergj/gruvbox-rice/assets/10507071/5b1bd384-a9cb-4b3e-9d47-d6ba1af32dcc)
