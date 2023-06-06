@@ -1,6 +1,6 @@
-# Gruvbox resources for ricing a system (mac)
+# Gruvbox resources
 
-Contains gruvbox (dark) colors, wallpapers, etc. 
+Contains Gruvbox (dark) colors, wallpapers, etc. 
 
 ## Demo images
 
