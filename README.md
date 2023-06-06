@@ -70,7 +70,7 @@ https://chrome.google.com/webstore/detail/gruvbox-theme/ihennfdbghdiflogeancnalf
 
 ## Webstorm theme
 
-https://plugins.jetbrains.com/plugin/12310-gruvbox-theme
+https://plugins.jetbrains.com/plugin/20558-gruvbox--theme
 
 ## Vscode theme
 
